@@ -1,5 +1,5 @@
 {
-  "homepage": "http://julion-mkk.github.io/fully_responsive_ui_ux_react",
+  "homepage": "https://julion-mkk.github.io/fully_responsive_ui_ux_react",
   "name": "gpt3",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +15,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "nup run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
